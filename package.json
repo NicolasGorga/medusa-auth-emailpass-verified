@@ -1,6 +1,6 @@
 {
   "name": "@nicogorga/medusa-auth-emailpass-verified",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Medusa auth provider plugin to authenticate users with email and password, adding email verification for security",
   "author": "Nicolas Gorga (https://github.com/NicolasGorga)",
   "license": "MIT",
