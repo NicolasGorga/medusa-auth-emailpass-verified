@@ -83,7 +83,7 @@ npm install @nicogorga/medusa-auth-emailpass-verification
         providers: [
           // ... other auth providers
           {
-            resolve: "@nicogorga/medusa-auth-emailpass-verified",
+            resolve: "@nicogorga/medusa-auth-emailpass-verified/providers/emailpass-verified",
             id: "emailpass-verified",
           }
         ]
