@@ -64,9 +64,9 @@ export const config: SubscriberConfig = {
 1. Install the plugin
 
 ```bash
-yarn add @nicogorga/medusa-auth-emailpass-verification
+yarn add @nicogorga/medusa-auth-emailpass-verified
 # or
-npm install @nicogorga/medusa-auth-emailpass-verification
+npm install @nicogorga/medusa-auth-emailpass-verified
 ```
 
 2. Add the plugin to your `medusa-config.ts`:
